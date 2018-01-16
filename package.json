@@ -1,0 +1,17 @@
+{
+  "name": "udemysocialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "hapi": "^17.2.0",
+    "mongoose": "^4.13.9",
+    "vision": "^5.3.1"
+  }
+}
